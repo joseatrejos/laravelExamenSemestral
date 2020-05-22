@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -12,6 +13,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 =======
+=======
+>>>>>>> 51defc4ea4ce3f8a0ae2d5cf4a782cff92e26cf8
 /vendor/
 node_modules/
 npm-debug.log
@@ -35,4 +38,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+<<<<<<< HEAD
 >>>>>>> d1c7b85cff97266b1caf6838ee5d2d73c720a646
+=======
+>>>>>>> 51defc4ea4ce3f8a0ae2d5cf4a782cff92e26cf8
